@@ -15,11 +15,11 @@ To start off, we modified our existing code to adding more table filters. We use
 
 With our modified webpage, individuals are able to get extremely concise with the information they would like to retrieve from the data. By adding search fields as in state, country, date and shape, we've allowed for an in-depth analysis on the UFO sightings pulled from our data. 
 
-(add image here of overall website)
+![Screen Shot 2022-09-17 at 3 25 27 PM](https://user-images.githubusercontent.com/106577074/190878266-c70f0c1e-f98f-43d8-b7e4-7dd379bf6335.png)
 
 If we would like to search by "shape," then we will see that the table will show the reported sightings for any UFOs that appear to be triangle in shape. 
 
-(add image here if search criteria)
+![Screen Shot 2022-09-17 at 3 13 43 PM](https://user-images.githubusercontent.com/106577074/190878270-5f902d1d-521b-4f8a-8c44-65ad35ab4ca9.png)
 
 ## Summary 
 
